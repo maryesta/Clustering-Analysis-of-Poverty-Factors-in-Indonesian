@@ -2,3 +2,5 @@
 2nd Winner of Statistics Olympiad SPSS 2024 by Binus University
 - This project, conducted as part of the Statistics Olympiad SPSS 2024 organized by Binus University, aimed to characterize poverty levels across districts/cities in Indonesia using K-Means and K-Medoids clustering. This project earned 2nd place in the competition. The analysis focused on key factors such as education, unemployment, access to sanitation, and regional GDP. Data preprocessing included handling multicollinearity, standardization, and dimensionality reduction using Principal Component Analysis (PCA). The optimal clustering model (K-Means with 3 clusters and PCA) was selected based on Elbow Method, Silhouette Score, and Davies-Bouldin Index. The results identified three distinct poverty clusters, providing actionable recommendations for targeted poverty alleviation policies. 
 - **Tools**: R (Data Preprocessing, EDA, Clustering Analysis)
+
+![image](https://github.com/user-attachments/assets/c6448a30-2487-4ccf-816b-d57f13b38b31)
